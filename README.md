@@ -1,5 +1,5 @@
 # CAI_APACHE_NODERED
-# Cài đặt appache web server.</p>
+# 2.1 Cài đặt appache web server.</p>
 ## tắt chạy iis </p>
 <img width="419" height="162" alt="image" src="https://github.com/user-attachments/assets/61c1737d-d1c8-4d1a-9548-5dec39d33b2b" />
 # Tải apache server , giải nén và cấu hình các file </p>
@@ -9,10 +9,35 @@
 <img width="1119" height="270" alt="image" src="https://github.com/user-attachments/assets/3d00f266-1ea0-4236-9499-933bb1e18221" /></p>
 ## cấu hình file </p>
 <img width="867" height="700" alt="image" src="https://github.com/user-attachments/assets/f0da5733-09bc-4236-a0dc-00fdbb89d2b4" /></p>
-<img width="1084" height="671" alt="image" src="https://github.com/user-attachments/assets/9fc09f0e-1e92-4b00-b89f-af0068250b00" />
-<img width="777" height="700" alt="image" src="https://github.com/user-attachments/assets/7e5b6f52-c1fe-4cdb-9721-4d6dbdef2f16" />
+<img width="1078" height="683" alt="image" src="https://github.com/user-attachments/assets/6588b543-2015-4587-9b0e-02251b8e4944" />
+
+<img width="640" height="401" alt="image" src="https://github.com/user-attachments/assets/5e12922b-60ba-43ab-97d8-00e481c30c15" />
+
 # fake ip cho domain 
-<img width="764" height="716" alt="image" src="https://github.com/user-attachments/assets/397a8501-370a-4014-befb-a351b5ecfaf0" />
-# cài đặt và khởi dộng apache
+<img width="764" height="716" alt="image" src="https://github.com/user-attachments/assets/397a8501-370a-4014-befb-a351b5ecfaf0" /></p>
+# cài đặt và khởi dộng apache</p>
 <img width="622" height="331" alt="image" src="https://github.com/user-attachments/assets/c7c9a23f-6f9e-4a18-b4fd-832001f9bee6" />
+<img width="1106" height="310" alt="image" src="https://github.com/user-attachments/assets/17711c8b-5490-44ff-8a91-8844ca4c01bb" />
+# KẾT QUẢ WEB SITE </p>
+<img width="738" height="258" alt="image" src="https://github.com/user-attachments/assets/106877a4-d4eb-4e86-baa8-e1675c403b4f" />
+
+# Cài đặt nodejs và nodered để làm backend</p>
+# cài đặt nodejs</p>
+<img width="303" height="234" alt="image" src="https://github.com/user-attachments/assets/91ed4376-1f57-4b76-80e1-60952cf5ffec" /></p>
+# cài đặt nodered
+<img width="709" height="311" alt="image" src="https://github.com/user-attachments/assets/578de8e8-05c5-4c32-aae3-0c537d46d250" />
+<img width="1095" height="603" alt="image" src="https://github.com/user-attachments/assets/2149c4eb-7697-4320-8979-95243e0b8b8a" /></p>
+# cài nssm để chạy nodered</p>
+<img width="889" height="469" alt="image" src="https://github.com/user-attachments/assets/626c64a9-7091-4224-b081-1e453f698b51" /></p>
+# tạo file chạy nodered</p>
+<img width="1155" height="726" alt="image" src="https://github.com/user-attachments/assets/61556dbb-a820-45dc-be35-62a036defcf9" />
+# cài noderec thành service windows</p>
+<img width="799" height="297" alt="image" src="https://github.com/user-attachments/assets/d8b792dd-1b93-47a9-81c6-44c8c6bd0007" /></p>
+# khởi động nodered</p>
+<img width="609" height="162" alt="image" src="https://github.com/user-attachments/assets/d3419781-092a-4587-b814-ef39c65e30fb" /> </p>
+<img width="1912" height="969" alt="image" src="https://github.com/user-attachments/assets/4f764776-d4f3-402f-82c1-d7e7a3aeb99c" /> </p>
+
+
+
+
 
