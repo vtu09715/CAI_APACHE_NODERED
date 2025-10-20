@@ -21,7 +21,7 @@
 # KẾT QUẢ WEB SITE </p>
 <img width="738" height="258" alt="image" src="https://github.com/user-attachments/assets/106877a4-d4eb-4e86-baa8-e1675c403b4f" />
 
-# Cài đặt nodejs và nodered để làm backend</p>
+# 2.2 Cài đặt nodejs và nodered để làm backend</p>
 # cài đặt nodejs</p>
 <img width="303" height="234" alt="image" src="https://github.com/user-attachments/assets/91ed4376-1f57-4b76-80e1-60952cf5ffec" /></p>
 # cài đặt nodered
@@ -36,6 +36,17 @@
 # khởi động nodered</p>
 <img width="609" height="162" alt="image" src="https://github.com/user-attachments/assets/d3419781-092a-4587-b814-ef39c65e30fb" /> </p>
 <img width="1912" height="969" alt="image" src="https://github.com/user-attachments/assets/4f764776-d4f3-402f-82c1-d7e7a3aeb99c" /> </p>
+# 2.3 Tạo CSDL trên sql </p>
+<img width="1136" height="562" alt="image" src="https://github.com/user-attachments/assets/3a040e44-ed1f-4a1a-98bc-2118ec1c37e2" /> </p>
+# 2.4 Cài đặt thư viện nodered </p>
+<img width="1323" height="878" alt="image" src="https://github.com/user-attachments/assets/803d1b76-f071-429c-a9d2-80c4537ee1fb" /> </p>
+# tạo mật khẩu mã hoá bằng tool thầy cho 
+<img width="1049" height="317" alt="image" src="https://github.com/user-attachments/assets/c1a4ea4d-783a-436c-b353-28dc63e545ca" /></p>
+# thay mã hoá vừa băm vào password </p>
+<img width="977" height="388" alt="image" src="https://github.com/user-attachments/assets/2fd18d35-440c-4f14-a642-44b8cf3f4fe9" /></p>
+
+
+
 
 
 
