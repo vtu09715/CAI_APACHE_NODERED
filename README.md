@@ -44,6 +44,8 @@
 <img width="1049" height="317" alt="image" src="https://github.com/user-attachments/assets/c1a4ea4d-783a-436c-b353-28dc63e545ca" /></p>
 # thay mã hoá vừa băm vào password </p>
 <img width="977" height="388" alt="image" src="https://github.com/user-attachments/assets/2fd18d35-440c-4f14-a642-44b8cf3f4fe9" /></p>
+# đăng nhập nodered bằng mật khẩu vừa thay 
+<img width="1160" height="604" alt="image" src="https://github.com/user-attachments/assets/9eacbc15-46a8-47c5-9cdb-23a7facc3352" />
 
 
 
