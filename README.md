@@ -44,8 +44,23 @@
 <img width="1049" height="317" alt="image" src="https://github.com/user-attachments/assets/c1a4ea4d-783a-436c-b353-28dc63e545ca" /></p>
 # thay mã hoá vừa băm vào password </p>
 <img width="977" height="388" alt="image" src="https://github.com/user-attachments/assets/2fd18d35-440c-4f14-a642-44b8cf3f4fe9" /></p>
-# đăng nhập nodered bằng mật khẩu vừa thay 
-<img width="1160" height="604" alt="image" src="https://github.com/user-attachments/assets/9eacbc15-46a8-47c5-9cdb-23a7facc3352" />
+# đăng nhập nodered bằng mật khẩu vừa thay </p>
+<img width="1160" height="604" alt="image" src="https://github.com/user-attachments/assets/9eacbc15-46a8-47c5-9cdb-23a7facc3352" /></p>
+# Thêm node vào tạo logic cho các node</p>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6675e78e-a2be-4b94-9c8c-1445f020f7d4" /></p>
+# logic http in </p>
+<img width="685" height="701" alt="image" src="https://github.com/user-attachments/assets/acbf01ea-5ce4-4cbd-be98-1f06bd16a6f4" /></p>
+# logic function </p>
+<img width="956" height="766" alt="image" src="https://github.com/user-attachments/assets/f2e82979-923a-49ed-b201-9600f20327f7" /> </p>
+# logic MSSQL </p>
+<img width="854" height="846" alt="image" src="https://github.com/user-attachments/assets/bcff4e40-8c6a-40db-8375-cbc47ddf49ce" /> </p>
+# logic http response </p>
+<img width="688" height="751" alt="image" src="https://github.com/user-attachments/assets/87d9abbc-9afa-455b-8004-a473da6d6d95" /> </p>
+
+
+
+
+
 
 
 
