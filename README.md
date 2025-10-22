@@ -56,6 +56,12 @@
 <img width="854" height="846" alt="image" src="https://github.com/user-attachments/assets/bcff4e40-8c6a-40db-8375-cbc47ddf49ce" /> </p>
 # logic http response </p>
 <img width="688" height="751" alt="image" src="https://github.com/user-attachments/assets/87d9abbc-9afa-455b-8004-a473da6d6d95" /> </p>
+# Kết quả tìm kiếm lấy thông tin trong SQL </p>
+<img width="1875" height="453" alt="image" src="https://github.com/user-attachments/assets/89483ece-addc-494a-a8a7-2724732d7db2" /> </p>
+# tìm kiếm mã dân tộc 52 trong bảng dân tộc ( tset api ) </p>
+<img width="903" height="267" alt="image" src="https://github.com/user-attachments/assets/aa8f9280-e3aa-4d35-84a8-b41fc54d0e96" />
+<img width="1777" height="970" alt="image" src="https://github.com/user-attachments/assets/f30978d8-9289-4423-808e-7ecf5bc6d26a" />
+
 
 
 
