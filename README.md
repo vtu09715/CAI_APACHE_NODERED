@@ -63,7 +63,9 @@
 <img width="1777" height="970" alt="image" src="https://github.com/user-attachments/assets/f30978d8-9289-4423-808e-7ecf5bc6d26a" />
 # Tạo giao diện front-end </p>
 <img width="711" height="360" alt="image" src="https://github.com/user-attachments/assets/9e27b116-7597-4bfb-8c93-0c7b27339c43" /> </p>
-
+# Tìm mã dân tộc </p>
+<img width="974" height="624" alt="image" src="https://github.com/user-attachments/assets/ed08aede-ad1d-46e8-81ad-648a6d27194e" />
+## 2.7 qua quá trình làm bài em đã hiểu rõ về quá trình cài đặt nodered nodejs và tạo miền và truy vấn lấy thông tin từ trong SQL ra bằng 1 phương pháp mới, biết cách tạo api back-end và sửu đụng nodered rất hay biết sử dụng các node để truy vấn SQL và trả kết quả về JSON, đã sử dụng javascript trong web để tạo cơ chế tương tác không đồng bộ biết lấy dự liệu from xây dựng URL yêu cầu GET có tham số. EM CẢM ƠN THẦY ĐÃ ĐỌC BÀI CỦA EM 
 
 
 
