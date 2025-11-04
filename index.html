@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tra cứu dân tộc - Vũ Đức Tú</title>
+
+    <!-- Liên kết file CSS -->
+    <link rel="stylesheet" href="vuductu.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>🔍 Tìm kiếm thông tin dân tộc (Node-RED API)</h1>
+
+        <!-- Form nhập thông tin -->
+        <form id="searchForm">
+            <label for="madantoc">Nhập Mã Dân Tộc hoặc Tên:</label>
+            <input type="text" id="madantoc" placeholder="Ví dụ: 52 hoặc Kinh" required>
+
+            <div class="button-group">
+                <button type="submit" id="searchBtn">Tìm Kiếm</button>
+                <button type="button" id="clearBtn">Xóa Dữ Liệu</button>
+            </div>
+        </form>
+
+        <!-- Hiển thị trạng thái -->
+        <div id="status" class="status-info">💡 Vui lòng nhập mã hoặc tên để bắt đầu truy vấn.</div>
+
+        <!-- Kết quả trả về -->
+        <div id="result"></div>
+    </div>
+
+    <!-- Liên kết file JavaScript -->
+    <script src="vuductu.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,139 @@
+/* File: vuductu.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+/* Form Styles */
+#searchForm label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+#madantoc {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước ngoài */
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.button-group button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    flex-grow: 1;
+    transition: background-color 0.3s;
+}
+
+#searchBtn {
+    background-color: #007bff;
+    color: white;
+}
+
+#searchBtn:hover {
+    background-color: #0056b3;
+}
+
+/* Từ ảnh cũ của bạn */
+#clearBtn {
+    background: #ccc;
+    color: #000;
+}
+
+#clearBtn:hover {
+    background-color: #a0a0a0;
+}
+
+/* Status Messages Styles */
+#status {
+    padding: 12px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-style: italic; /* Theo yêu cầu từ ảnh CSS của bạn */
+}
+
+/* Classes cho trạng thái */
+.status-info {
+    background-color: #e0f7fa; 
+    color: #00796b;
+    border: 1px solid #00796b;
+}
+
+.status-success {
+    background-color: #e8f5e9; 
+    color: #388e3c;
+    border: 1px solid #388e3c;
+}
+
+.status-warning {
+    background-color: #fffde7; 
+    color: #fbc02d;
+    border: 1px solid #fbc02d;
+}
+
+.status-error {
+    background-color: #ffebee; 
+    color: #c62828;
+    border: 1px solid #c62828;
+}
+
+.status-clear {
+    color: #666; /* Màu xám theo yêu cầu từ ảnh CSS của bạn */
+    background-color: #f4f7f6;
+    border: 1px dashed #ccc;
+}
+
+/* Result Display Styles */
+#result {
+    margin-top: 20px;
+}
+
+.result-item {
+    border: 1px solid #e0e0e0;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.result-item p {
+    margin: 5px 0;
+}
+
+.result-item strong {
+    color: #007bff;
+}
